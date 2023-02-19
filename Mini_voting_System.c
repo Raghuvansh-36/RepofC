@@ -143,5 +143,3 @@ void main()
         printf("\n");
     } while (choose != 5);
 }
-
-
