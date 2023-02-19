@@ -36,7 +36,7 @@ void main()
       printf("\t\t #### Result of the vote ####\n");
       printf("A got %d vote \n",A);
       printf("B got %d vote \n",B);
-    printf("neutral vote:%d \n",no_result);
+    printf("candidates out of voting:%d \n",no_result);
     
 // Printing the winner of voting.   
     
